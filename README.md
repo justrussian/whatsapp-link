@@ -11,3 +11,7 @@
 Наслаждайтесь.
 
 Пример можно посмотреть здесь: https://tarassenko.ru/wa.php?phone=79138665569 ну и написать мне там спасибо =)
+
+# Внимание! Есть более полное решение
+
+https://github.com/andres-website/whatsapp_link
